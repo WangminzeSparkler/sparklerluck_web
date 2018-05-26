@@ -1,0 +1,4 @@
+.idea/
+target/
+sparklerluck_web.iml
+**/jdbc.properties
